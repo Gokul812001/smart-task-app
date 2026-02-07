@@ -21,14 +21,9 @@
 	"d1_databases": [
 		{
 			"binding": "expense_db",
-			"database_name": "expense_db",
-			"remote": true
-		},
-		{
-			"binding": "gokul_expense_db",
 			"database_name": "gokul_expense_db",
 			"database_id": "5e5c5c70-8ed8-454b-9c64-06e0089b2e70"
-		}
+		},
 	],
 	"ai": {
 		"binding": "AI"
