@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "gokul-workers-test",
+	"name": "smart-task-app",
 	"main": "src/index.js",
 	"compatibility_date": "2025-12-31",
 	"compatibility_flags": [
